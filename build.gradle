@@ -2,6 +2,7 @@ apply plugin: 'java'
 apply plugin: 'maven'
 apply plugin: 'maven-publish'
 apply plugin: 'signing'
+apply plugin: 'findbugs'
 
 group = 'com.taskadapter'
 version = '1.24-SNAPSHOT'
